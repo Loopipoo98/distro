@@ -1,4 +1,4 @@
-name: Create VPS
+name: Create VP
 
 on:
   workflow_dispatch:
